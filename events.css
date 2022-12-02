@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+}
+
+#contact {
+    font-size: small;
+    text-align: right;
+}
+
+.every {
+    background-color: beige;
+}
+
+table{
+    border: 5px solid black;
+    margin: 0px 50px 10px 50px;
+}
+
+.start {
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    padding: 0px 10px;
+}
+
+.intro {
+    background-color: rgba(0, 0, 0, 0.737);
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    font-size: 30px;
+}
+
+.general {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 20%;
+}
+
+#day {
+    display: inline-block;
+    font-size: 100px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px 50px 0px 50px;
+   }
+
+#month {
+    display: inline-block;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    padding: 0px 10px 10px 10px;
+}
+
+.title {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    border-top: 5px solid gray;
+}
+
+.body {
+    font-size: 35px;
+    text-align: justify;
+    padding: 0px 15px;
+}
+
+#amount {
+    color:red;
+    font-weight: bold;
+}
+
+#amount:hover {
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+}
+
+.link {
+    display: block; 
+    text-decoration: none;
+    color: rgb(240, 9, 9);
+    font-size: 30px;
+    text-align: center;
+    background-color: rgba(200, 128, 128, 0.649);
+    padding: 10px 0px;
+    border-radius: 30px;
+    margin: 0px 15px 10px 15px;
+}
+
+.link:hover {
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+}
+    
+
+
